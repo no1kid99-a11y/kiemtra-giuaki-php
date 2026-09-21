@@ -14,7 +14,7 @@ function isPrime($n) {
     return true;
 }
 
-echo "<h2>Bài 1: Danh sách số nguyên tố từ 1 đến 100</h2>";
+echo "<h2>Danh sách số nguyên tố từ 1 đến 100</h2>";
 
 for ($i = 1; $i <= 100; $i++) {
     if (isPrime($i)) {
