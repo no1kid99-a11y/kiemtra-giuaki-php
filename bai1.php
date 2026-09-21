@@ -1,6 +1,5 @@
 <?php
 // Bài 1: Kiểm tra số nguyên tố
-
 function isPrime($n) {
     if ($n < 2) {
         return false;
